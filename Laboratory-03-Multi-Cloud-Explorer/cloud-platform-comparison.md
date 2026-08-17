@@ -24,6 +24,10 @@ Google Cloud Platform tends to lead in AI/ML and Kubernetes, since Google create
 ### 4. Which cloud platform would you personally choose and why?
 I would lean toward Google Cloud Platform for a project involving data analysis or machine learning, since its tools like BigQuery and Vertex AI make it easier to process and analyze large datasets, and its Kubernetes support would help if I ever needed to deploy containerized applications.
 
+
+
+
+
 ## Match the Cloud Services
 
 | Service Category | AWS | Azure | GCP |
