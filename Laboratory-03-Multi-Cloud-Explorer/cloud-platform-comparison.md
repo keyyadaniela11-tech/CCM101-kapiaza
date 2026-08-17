@@ -1,7 +1,7 @@
 ## Cloud Platform Comparison
 
 | Category | AWS | Microsoft Azure | Google Cloud Platform |
-|---|---|---|---|
+|:---:|:---:|:---:|:---:|
 | Launch Year | 2006 | 2010 | 2011 (public GA) |
 | Compute Service | Amazon EC2 | Azure Virtual Machines | Compute Engine |
 | Storage Service | Amazon S3 | Azure Blob Storage | Cloud Storage |
@@ -27,7 +27,7 @@ I would lean toward Google Cloud Platform for a project involving data analysis 
 ## Match the Cloud Services
 
 | Service Category | AWS | Azure | GCP |
-|---|---|---|---|
+|:---:|:---:|:---:|:---:|
 | Virtual Machine | Amazon EC2 | Azure Virtual Machines | Compute Engine |
 | Object Storage | Amazon S3 | Azure Blob Storage | Cloud Storage |
 | Identity Management | AWS IAM | Azure AD / Entra ID | Cloud IAM |
