@@ -1,1 +1,9 @@
+## Mission Reflection
 
+Completing the Multi-Cloud Explorer mission gave me a much clearer picture of how AWS, Azure, and Google Cloud actually differ from each other, beyond just being "the big three" cloud providers. Out of the three, Google Cloud Platform impressed me the most because of how tightly its services are built around data and AI — tools like BigQuery and Vertex AI make advanced analytics and machine learning feel far more accessible than I expected.
+
+At the same time, I noticed that AWS, Azure, and GCP share a surprising number of similarities underneath their different branding. All three offer virtual machines, object storage, managed databases, identity and access management, and container orchestration through Kubernetes — they are simply packaged and priced differently, and each one integrates more naturally with a different existing environment (AWS with general flexibility, Azure with Microsoft products, GCP with data-heavy workloads).
+
+This activity also showed me how much business requirements drive the choice of cloud platform, more than personal preference or hype. A university already using Active Directory has very different needs from a startup trying to minimize costs, or an AI research company that needs GPU-heavy compute — and matching the platform to the actual problem, rather than just picking the most popular option, is really the core skill of a cloud solutions consultant.
+
+Acting as a Cloud Solutions Consultant for this mission pushed me to think less like a student memorizing service names and more like someone who has to justify a recommendation with real trade-offs. Finally, my GitHub Cloud Computing Portfolio has grown from a single onboarding lab into a small but organized record of my progress — every new laboratory folder adds another layer of documentation, and it's starting to feel like something I could genuinely show off, not just submit for a grade.
